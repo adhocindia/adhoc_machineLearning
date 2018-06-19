@@ -1,0 +1,27 @@
+Collecting test data for machine learning : -
+    - UCI
+    - Kaggle Datasets
+
+Datasets for : -
+    - Titanic
+    - Cancer
+    - Iris
+    - Stock Market
+    - Fraud Detection
+
+Task : -
+    - CSV,Text,XLS file handling
+
+RIOT (miniature stackoverflow LOL) : - 
+    - adhocml:matrix.org
+
+Supervised Machine Learing : -
+    - Data collection
+    - Cleaning
+    - Training Computer (Algorithms)
+    - Testing (input)
+    - Predection (output)
+Libraries : -
+    - Tenserflow (Deep learning)
+    - Scripy
+    - Scikit-learn

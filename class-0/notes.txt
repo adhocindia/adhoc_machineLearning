@@ -1,0 +1,16 @@
+Data Visualization in python : -
+Libraries : -
+    - matplotlib
+        - pyplot
+            - plot(x,y)
+            - title()
+            - xlabel()
+            - ylabel()
+            - legend()
+            - show()
+    - pandas
+        - read_csv()
+            . "col_name" -> for viewing a column
+                .iloc[index] -> for viewing at particular index on column
+		
+                 

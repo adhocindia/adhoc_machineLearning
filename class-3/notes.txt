@@ -1,0 +1,15 @@
+windows 
+    - {NT}  *.exe
+mac based od 
+    - {DARWIN}  *.dmg
+{LINUX} *rpm    *.deb
+RPM 
+    - Redhat
+    - Fedora 
+    - Centos
+DEB
+    - Ubuntu
+    - Kali
+    - Debian
+    - Mint
+    - Arch

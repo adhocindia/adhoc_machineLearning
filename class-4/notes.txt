@@ -1,0 +1,11 @@
+Task : -
+    - voice input in python
+    - convert text data to voice data
+    - Draw a accuracy graph for iris data on variable input data %
+Commands : -
+    - uname -p -> processor
+    - uname -m -> machine
+    - uname -a -> kernel version
+    - which "name" -> location
+    - file "name" -> type of file or if directory
+    .bashshr 

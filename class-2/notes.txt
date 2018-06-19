@@ -1,0 +1,13 @@
+Datasets aviable in sklearn 
+    - from sklearn import datasets
+    - load_iris
+    - load_diabetes
+
+To view aviable methods ans attributes in a class
+    - Dir
+
+Task : -
+    - numpy python module
+    - Apache Server
+
+Splitting the data percentange wise (Using Numpy).

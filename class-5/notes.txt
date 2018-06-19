@@ -1,0 +1,7 @@
+Vizulaization of Decision Tree Classifier
+Task :-
+    - K nearest neighbours algorithm
+    - Draw graph for accuracy score knn vs dtc
+    - Web scraping from github
+    - brew install espeak
+    - Support vector machine
