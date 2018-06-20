@@ -1,4 +1,3 @@
-from sklearn import tree
 from sklearn.datasets import load_boston,load_iris
 from sklearn import tree
 from sklearn.neighbors import KNeighborsClassifier
