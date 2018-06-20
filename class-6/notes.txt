@@ -1,0 +1,7 @@
+Task :-
+    Process five data sets on KNN and DTC , and plot graph
+Machine Learning:-
+    - Classification
+    - Regression
+Pyplot
+    - to show image -> imshow()

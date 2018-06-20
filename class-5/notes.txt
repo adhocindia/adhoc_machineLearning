@@ -3,5 +3,13 @@ Task :-
     - K nearest neighbours algorithm
     - Draw graph for accuracy score knn vs dtc
     - Web scraping from github
-    - brew install espeak
     - Support vector machine
+Vim :-
+    - esc -> to exit mode
+    - :"action"
+        - :q -> quit ans save
+        - :q! -> quit and not save
+        - :w -> write
+        - :i -> insert
+        - :1 -> line number 1
+        - :wq -> write and quit
