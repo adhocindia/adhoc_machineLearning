@@ -3,4 +3,19 @@ Computer Vision: -
         - RGB
 Python opencv
     - BGR
-    
+Task : -
+    - user input for drawing on Image
+        - line
+        - Rectangel
+        - Circle
+        - Polygon
+Remote login server : -
+Server steps: -
+    - Insall related software. (telenet-server)
+    - Make changes if required. {configure server}
+    - Start service.
+    - Manage security.
+Clinet side steps: - 
+    - install software to connect server
+    - connect and access
+
