@@ -1,0 +1,22 @@
+Data Base Management System
+Using maria db: -
+
+	- mysql.server start -> to start sql server
+	- mysql -> to start
+	- show databases -> see all databases
+	- use mysql -> to go into database
+	- mysql_secure_installation -> to set configuration for mariadb
+	- mysql -u root -p -> login with password
+	- desc "table_name" -> check schema of the name
+Creating database backup :-	
+	- mysqldump - u root -p "db_name.sql"
+Commad : -
+	- scp "file_name" "location(IP)" -> to transfer file to different location
+Restoring to a database :-
+	- mysql -u root -p "data_base" "file path"
+
+Recovering Databas :-
+	- mysqld_safe --skip-grant-tables &
+	- use mysql;
+	- select user, password from user;
+	- update user set password =password("") where user = "";

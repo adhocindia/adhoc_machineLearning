@@ -28,7 +28,6 @@ cv2.line(img1,(0,0),(150,100),(0,0,255),4)
 
 cv2.imshow("windowname",img1)
 cv2.imshow("Gray",img0)
-cv2.imshow("Trans",img_1)
 
 # save black and white (GRAY) image
 cv2.imwrite("new_name.jpeg",img1)

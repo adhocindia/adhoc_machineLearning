@@ -1,0 +1,14 @@
+Face recognition
+	- Amazon Web Service
+	- Karios
+EC2 - > Elastic compute cloud
+storage -- images -- URL
+URL -- aws recognition
+ 
+Connecting to amazon cloud :-
+	- ssh ubuntu@"ip" -i "password file"
+
+Transfering file: -
+	- sudo apt install vsftpd
+
+
